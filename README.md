@@ -14,8 +14,9 @@ Hello! My name is Ana Garcia-Maunez (she/her) and I'm a second year Master of Ar
 <br>
 
 # What I hope to learn 
+<p>
 I hope to learn how to use a variety of different dataviz resources and how to get an idea across through data visualizations. In the past, I've relied on using Excel charts and graphs without putting too much thought into it, but I would like to be more thoughtful in that process to make effective and well-designed data visualizations as I believe it will be extremely useful in my field.
-
+</p>
 
 # Portfolio 
 Here's where all of my cool data visualizations will go! 
