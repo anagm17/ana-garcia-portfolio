@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/cNyK1Fp.jpg?1" width="320" height="330"
    alt="ana profile pic"
-   style="float: left; margin-right: 10px; margin-bottom: 10px" />
+   style="float: left; margin-right: 15px; margin-bottom: 15px" />
 
 # [ana-garcia-portfolio](https://anagm17.github.io/ana-garcia-portfolio/)
 Ana Garcia-Maunez's public portfolio for the Telling Stories with Data class (F20) at CMU!
