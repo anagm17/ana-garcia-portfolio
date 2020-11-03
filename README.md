@@ -12,6 +12,7 @@ Hello! My name is Ana Garcia-Maunez (she/her) and I'm a second year Master of Ar
 </p>
 
 <br>
+<br>
 
 # What I hope to learn 
 <p>
