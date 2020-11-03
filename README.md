@@ -1,7 +1,7 @@
 # [ana-garcia-portfolio](https://anagm17.github.io/ana-garcia-portfolio/)
 Ana Garcia-Maunez's public portfolio for the Telling Stories with Data class (F20) at CMU!
 
-<img src="https://i.imgur.com/cNyK1Fp.jpg?1" width="320" height="330"
+<img src="https://i.imgur.com/cNyK1Fp.jpg?1" width="290" height="300"
    alt="ana profile pic"
    style="float: left; margin-right: 20px; margin-bottom: 10px" />
 
