@@ -4,7 +4,7 @@ Ana Garcia-Maunez's public portfolio for the Telling Stories with Data class (F2
 # About me
 
 <p>
-<img src="https://i.imgur.com/cNyK1Fp.jpg?1" alt="ana profile pic" style="float:left;width:350px;height:360px;">
+<img src="https://i.imgur.com/cNyK1Fp.jpg?1" alt="ana profile pic" style="width:320px;height:330px;">
 
 Hello! My name is Ana Garcia-Maunez (she/her) and I'm a second year Master of Arts Management student. Originally from Orlando, FL, I have a BA in Music from the University of Central Florida. Having studied flute performance for several years, I decided to study arts management to build on my knowledge of music and the arts from a managerial standpoint. Currently, I'm a development intern with Assemble here in Pittsburgh. I plan to go into development or potentially consulting after graduation, so everything I'm learning in this course will be priceless for any of my future jobs. My interests include music, reading, and baking.
 
