@@ -18,5 +18,5 @@ I hope to learn how to use a variety of different dataviz resources and how to g
 
 # Portfolio 
 
-[Visualizing government debt](/dataviz2.md)
+[Visualizing government debt](/dataviz2)
 
