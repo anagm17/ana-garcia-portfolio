@@ -3,7 +3,7 @@
 <img src="https://imgur.com/a/KxAZGuo" width="290" height="300"
    style="float: left; margin-right: 20px; margin-bottom: 10px" />
    
-[Source](https://culturaldata.org/media/2080/dcla_afta_smudataarts_covid19_impact_report.pdf: SMU Data Arts (2020)), COVID-19 Impact on Nonprofit Arts and Culture in New York City, Figure 6 (Accessed on 15 November 2020)
+[Source](https://culturaldata.org/media/2080/dcla_afta_smudataarts_covid19_impact_report.pdf): SMU Data Arts (2020), COVID-19 Impact on Nonprofit Arts and Culture in New York City, Figure 6 (Accessed on 15 November 2020)
    
 ### Selection and Redesign Process
    I selected this chart because it is relevant to the arts and culture sector today, specifically in New York City. SMU Data Arts is a well respected national source of important data regarding the arts. Back in April SMU Data Arts partnered with the New York City Department of Cultural Affairs (DCLA) and Americans for the Arts (AFTA) to implement a survey for arts nonprofits in the city to collect data on the effect of COVID-19. This report shares the findings from the survey. In my opinion, every single chart in this report could benefit from a redesign but for the purposes of this project, I selected Figure 6. I selected it by considering the pros and cons of the chart and what I could do to improve it. My overall thoughts are that there is too much going on in the original chart that can be simplified and streamlined while still providing lots of information. 
