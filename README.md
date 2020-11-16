@@ -19,4 +19,4 @@ I hope to learn how to use a variety of different dataviz resources and how to g
 # Portfolio 
 
 [Visualizing government debt](/dataviz2.md)
-
+[The effect of COVID-19 on arts and culture in NYC](/dataviz3.md)
