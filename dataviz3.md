@@ -3,6 +3,8 @@
 <img src="https://imgur.com/a/KxAZGuo" width="290" height="300"
    style="float: left; margin-right: 20px; margin-bottom: 10px" />
    
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/KxAZGuo" data-context="false" ><a href="//imgur.com/a/KxAZGuo"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+   
 [Source](https://culturaldata.org/media/2080/dcla_afta_smudataarts_covid19_impact_report.pdf): SMU Data Arts (2020), COVID-19 Impact on Nonprofit Arts and Culture in New York City, Figure 6 (Accessed on 15 November 2020)
    
 ### Selection and Redesign Process
@@ -21,3 +23,5 @@ I decided to prototype it on Flourish to see how it would look, and the stacked 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4360508"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 I ended up going with a redesign that simplified the existing one with a stronger title that emphasized the supporting paragraph and overall conclusions gleaned from the data. The tick marks for every 2 percentage points allows the reader to clearly see the exact percentage without having to re-write it. Since Flourish doesn't allow adding additional text to the right of each bar, I included the average amount spent as a pop-up, but for the actual report I would have added the $ amount without being in parenthesis. Overall I find this redesign is much more sleak while still presenting the same amount of detailed information. 
+
+## [Back to main page](https://anagm17.github.io/ana-garcia-portfolio/)
