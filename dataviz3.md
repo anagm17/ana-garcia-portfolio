@@ -1,8 +1,5 @@
 # COVID-19 Impact on Nonprofit Arts and Culture in New York City
 
-<img src="https://imgur.com/a/KxAZGuo" width="290" height="300"
-   style="float: left; margin-right: 20px; margin-bottom: 10px" />
-   
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/KxAZGuo" data-context="false" ><a href="//imgur.com/a/KxAZGuo"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
    
 [Source](https://culturaldata.org/media/2080/dcla_afta_smudataarts_covid19_impact_report.pdf): SMU Data Arts (2020), COVID-19 Impact on Nonprofit Arts and Culture in New York City, Figure 6 (Accessed on 15 November 2020)
