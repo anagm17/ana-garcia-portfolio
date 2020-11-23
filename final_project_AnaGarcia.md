@@ -12,7 +12,6 @@ Fashion is a a $1.3 trillion industry (Ellen MacArthur Foundation)
 
 
 #### Conflict: Industry impact to environment
-Clothing lifecycle
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/zWHWQ1m" data-context="false" ><a href="//imgur.com/a/zWHWQ1m"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 - Average number of time a garment is worn has dropped 38% from 15 years ago (Ellen MacArthur Foundation)
 - How long does the average fast-fashion t-shirt last? < 10 wearings (NYTimes)
