@@ -9,17 +9,21 @@ Personal story: Have you ever bought a shirt or pair of jeans that fell apart af
 - What is fast fashion? Definition.
 - But first: a (very) brief history of clothing industry—catalogues, standardization of sizes, rise of fast fashion, 12-16 fashion cycles a year instead of 2
 - How big is the fashion industry?
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/5St0tXC" data-context="false" ><a href="//imgur.com/a/5St0tXC"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 #### Conflict: Industry impact to environment
 - Average number of time a garment is worn has dropped 38% from 15 years ago (Ellen MacArthur Foundation)
 - Clothing lifecycle
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/zWHWQ1m" data-context="false" ><a href="//imgur.com/a/zWHWQ1m"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 - How long does the average fast-fashion t-shirt last? < 10 wearings (NYTimes)
 - Clothes making is very resource intensive
 - Fashion industry is 2nd highest user of water worldwide (UNECE)
 - It takes 2,700 liters (713 gallons) to make one cotton shirt (WRI)
 - With all that being said, clothing production is rapidly on the rise
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/RvIO2gy" data-context="false" ><a href="//imgur.com/a/RvIO2gy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 #### Resolution: Not all hope is lost
 - Climate policy initiatives: ex) Green New Deal, UK Climate Plan 
@@ -28,7 +32,6 @@ Personal story: Have you ever bought a shirt or pair of jeans that fell apart af
 #### Call to action 
 To stop supporting fast-fashion and instead switch to sustainable alternatives (examples: Thrifting, Everlane, Frank + Oak, Patagonia, For Days, etc.)
  
-
 
 ### Data
 For this topic, many of the useful datasets exist behind a paywall. Thus, I have compiled a list of sources and reports I will be using to either re-design some charts or pull data from in order to create this presentation. Here are some of the main sources:
