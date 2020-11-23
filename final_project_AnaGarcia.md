@@ -1,13 +1,11 @@
-# Final Project
-
-### Fast Fashion: Cheap to Purchase, But at What Cost?
+# Fast Fashion: Cheap to Purchase, But at What Cost?
 My goal for this project is to convince my audience (consumers) the damage fast fashion does to the environment and show them more sustainable alternatives for clothing shopping.
 
 ### Outline
 #### Set-up
 Personal story: Have you ever bought a shirt or pair of jeans that fell apart after the first wash? It was most likely a fast-fashion garment. 
 - What is fast fashion? Definition.
-- But first: a (very) brief history of clothing industry—catalogues, standardization of sizes, rise of fast fashion, 12-16 fashion cycles a year instead of 2
+- But first: a (very) brief history of clothing industry—catalogues, standardization of sizes, rise of fast fashion, 12-16 fashion cycles a year instead of 2 (include timeline)
 - How big is the fashion industry?
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/5St0tXC" data-context="false" ><a href="//imgur.com/a/5St0tXC"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
@@ -19,7 +17,7 @@ Personal story: Have you ever bought a shirt or pair of jeans that fell apart af
 
 - How long does the average fast-fashion t-shirt last? < 10 wearings (NYTimes)
 - Clothes making is very resource intensive
-- Fashion industry is 2nd highest user of water worldwide (UNECE)
+- Fashion industry is 2nd highest user of water worldwide and produces 20% of global water waste (UNECE)
 - It takes 2,700 liters (713 gallons) to make one cotton shirt (WRI)
 - With all that being said, clothing production is rapidly on the rise
 
@@ -45,6 +43,10 @@ For this topic, many of the useful datasets exist behind a paywall. Thus, I have
 [Facts and Figures about Materials, Waste and Recycling](https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data#TextilesTableandGraph)
 
 [A New Textiles Economy](https://www.ellenmacarthurfoundation.org/assets/downloads/publications/A-New-Textiles-Economy_Full-Report_Updated_1-12-17.pdf)
+
+[Combined top 200 fashion brands, Public/Private](https://fashionunited.com/i/top200/)
+
+[Fashion and the SDGs: What Role for the UN?](https://www.unece.org/fileadmin/DAM/RCM_Website/RFSD_2018_Side_event_sustainable_fashion.pdf)
 
 
 ### Method and Medium
