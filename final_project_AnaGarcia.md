@@ -50,3 +50,5 @@ For this topic, many of the useful datasets exist behind a paywall. Thus, I have
 ### Method and Medium
 I will be completing the project through the use of Shorthand and Flourish. I may also complete a seperate Shorthand page for the final presentation that just has my main talking points for the two minute presentation. 
 
+## [Back to main page](https://anagm17.github.io/ana-garcia-portfolio/)
+
