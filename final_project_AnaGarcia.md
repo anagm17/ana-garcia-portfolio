@@ -24,12 +24,9 @@ Clothes making is very resource intensive
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/RvIO2gy" data-context="false" ><a href="//imgur.com/a/RvIO2gy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-#### Resolution: Not all hope is lost
+#### Resolution: Not all hope is lost + call to Action
 - Climate policy initiatives: ex) Green New Deal, UK Climate Plan 
-- What can consumers do? Donate, repurpose clothes
-
-#### Call to action 
-To stop supporting fast-fashion and instead switch to sustainable alternatives (examples: Thrifting, Everlane, Frank + Oak, Patagonia, For Days, etc.)
+- What can consumers do? Donate, repurpose clothes, and stop supporting fast-fashion and instead switch to sustainable alternatives (examples: Thrifting, Everlane, Frank + Oak, Patagonia, For Days, etc.)
  
 
 ### Data
