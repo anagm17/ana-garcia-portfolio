@@ -6,6 +6,7 @@ My goal for this project is to convince my audience (American consumers) the dam
 Personal story: Have you ever bought a shirt or pair of jeans that fell apart after the first wash? It was most likely a fast-fashion garment. 
 - What is fast fashion? Definition.
 - But first: a (very) brief history of clothing industry—catalogues, standardization of sizes, rise of fast fashion, 12-16 fashion cycles a year instead of 2 (include timeline)
+
 Fashion is a a $1.3 trillion industry (Ellen MacArthur Foundation)
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/5St0tXC" data-context="false" ><a href="//imgur.com/a/5St0tXC"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
@@ -53,8 +54,10 @@ This is a topic that has interested me for some time and that I have done passiv
 
 ### Method and Medium
 I will be completing the project through the use of Shorthand and Flourish.
+
 I plan on writing out a script of sorts first for the website and then seeing where I can use visualizations to bolster my points. After I have an idea of the visualizations I plan to use and wireframe the project, I will conduct user research on at least 2-3 people to get feedback and find areas for improvement. Next, I will prototype my sketches and request feedback again. Once I feel confident about them, I will move on to building out the presentation on Shorthand.
-I plan on creating a seperate Shorthand page for the final presentation that just includes my main talking points for the two minute presentation. 
+
+I also intend on creating a seperate Shorthand page for the final presentation that just includes my main talking points for the two minute presentation. 
 
 ## [Back to main page](https://anagm17.github.io/ana-garcia-portfolio/)
 
