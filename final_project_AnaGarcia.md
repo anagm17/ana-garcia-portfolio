@@ -71,6 +71,7 @@ My target audience is consumers, both those that knowingly purchase/enjoy fast f
 - What works, what doesn't, and if there's any more information/data I can include to bolster the story
 
 ### Questions/Responses
+
 <table>
   <tr>
     <th>Question</th>
@@ -171,6 +172,7 @@ My target audience is consumers, both those that knowingly purchase/enjoy fast f
     <td>I will order the sustainable options by price range and try to find more affordable options as well. The animation idea was cool too, I will have to see how I can make that idea come to life.</td>
   </tr>
 </table>
+
 
 #### Findings
 Overall, the user research illuminated more areas where I can strengtten the story whether it be by providing more in-depth information or including additional data. I believe in adding this it will also help clarify who the target audience is. Otherwise, the visualizations I have now are strong with the exception of the first chart and its missing key.
