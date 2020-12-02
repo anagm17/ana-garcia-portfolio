@@ -75,7 +75,7 @@ My target audience is consumers, both those that knowingly purchase/enjoy fast f
 Detailed questions and responses can be found [here](https://anagm17.github.io/ana-garcia-portfolio/googleform.html)
 
 #### Findings
-Overall, the user research illuminated more areas where I can strengtten the story whether it be by providing more in-depth information or including additional data. I believe in adding this it will also help clarify who the target audience is. Otherwise, the visualizations I have now are strong with the exception of the first chart and its missing key.
+Overall, the user research illuminated more areas where I can strengthen the story whether it be by providing more in-depth information or including additional data. I believe in adding this it will also help clarify who the target audience is. Otherwise, the visualizations I have now are strong with the exception of the first chart and its missing key.
  
 ## [Back to main page](https://anagm17.github.io/ana-garcia-portfolio/)
 
