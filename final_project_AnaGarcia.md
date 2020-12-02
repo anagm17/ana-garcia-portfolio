@@ -72,6 +72,7 @@ My target audience is consumers, both those that knowingly purchase/enjoy fast f
 
 ### Questions/Responses
 
+<html>
 <table>
   <tr>
     <th>Question</th>
@@ -172,6 +173,8 @@ My target audience is consumers, both those that knowingly purchase/enjoy fast f
     <td>I will order the sustainable options by price range and try to find more affordable options as well. The animation idea was cool too, I will have to see how I can make that idea come to life.</td>
   </tr>
 </table>
+</html>
+
 
 
 #### Findings
