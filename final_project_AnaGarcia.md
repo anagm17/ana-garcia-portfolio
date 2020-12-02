@@ -1,4 +1,6 @@
 # Fast Fashion: Cheap to Purchase, But at What Cost?
+
+## Part I
 My goal for this project is to convince my audience (American consumers) the damage fast fashion does to the environment and show them more sustainable alternatives for clothing shopping.
 
 ### Outline
@@ -54,6 +56,39 @@ I will be completing the project through the use of Shorthand and Flourish.
 I plan on writing out a script of sorts first for the website and then seeing where I can use visualizations to bolster my points. After I have an idea of the visualizations I plan to use and wireframe the project, I will conduct user research on at least 2-3 people to get feedback and find areas for improvement. Next, I will prototype my sketches and request feedback again. Once I feel confident about them, I will move on to building out the presentation on Shorthand.
 
 I also intend on creating a seperate Shorthand page for the final presentation that just includes my main talking points for the two minute presentation. 
+
+## Part II: Wireframe/Storyboard & User Research 
+For this section of the project, I built my wireframe and storyboard directly into [Shorthand](https://preview.shorthand.com/Mw6V94oX9wa2qxFI). I used a combination of Flourish, Infogram, and Balsamiq (for placeholders).
+
+### User Research Method
+I used the following [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSerrMtXQyCIarJnWUZgv0L4exwRLqsSSR3rcLoKAEEnbPqL-Q/viewform?usp=sf_link) to collect user responses from 4 individuals. Participants were selected to be a mix of those who possess varying levels of knowledge with fast fashion. 
+
+My target audience is consumers, both those that knowingly purchase/enjoy fast fashion and those that may not realize they are shopping fast fashion. Hopefully the presentation will persuade consumers to stop supporting fast fashion brands and equip them with the better, more sustainable alternatives.
+
+#### Goals for user research:
+- Whether the overall message and story is clear 
+- Whether the call to action is compelling
+- What works, what doesn't, and if there's any more information/data I can include to bolster the story
+
+### Questions/Responses
+| Question  | User 1  | User 2 | User 3  | User 4  | Changes to Implement |
+|---|---|---|---|---|---|
+| Age bracket  | 18-24  | 18-24  | 45-54  | 18-24  | -  |
+| Gender | Female | Female | Female | Male | - |
+| Are you previously familiar with the topic?  | Sort of  | Sort of  | Yes  | Yes  |   |
+| How did the presentation make you feel?  | Very engaged, motivated to act  | Informed and surprised  | I didn't realize all the implications of fast fashion on the environment  | Hopeful, and informed  |   |
+| In your own words, what do you think this story is about? | Environmental impact of the fast fashion industry  | The presentation is about how the rise of fast fashion is having a negative effect on our climate, despite the industry seeming benign in the context of the encroaching irreversible impacts of climate change.  | About the detrimental impact fast fashion has on the environment and what we can do to break that cycle  | The environmental cost of fast fashion  |   |
+| Who do you think is the intended audience?  | General public / people who like shopping and have shopped at fast fashion stores   | The tone and content is geared towards those in the fast fashion industry and the patrons of fast fashion.  | Women   | Everyone  |   |
+| Is the overall flow of information logical and clear? Why or why not?  | Yes, I think so! I was surprised when I got to the call to action. Adding something about the environmental impact of landfills could help with that.    | The information is clear and follows a logical flow of context, facts, impacts, and how to help. It serves as a nice call-to-action.   | Good use of visuals and graphics  | Yes  |   |
+| Are the data visualizations supporting the claims easy to understand? Why or why not?  | Colors weren't clear to me on the first chart, but I could just be dumb. I like the infographic-style visualizations a lot  | The graphs added a well needed shock factor which underlined the importance of the topic. The only complaint I have is with the somewhat blurry visual of the history of the clothing industry.   | Yes, by well sourced data.  | Yes  |   |
+| Was anything about the story confusing?   | No   | Nothing at all.   | n/a  | Not really  |   |
+| What questions, if any, come up as you read through?   | Are some specific brands worse than others?  | Maybe how these sustainable fashion brands are doing things differently in comparison to fast fashion.  | How am I contributing to this problem  | Other ways someone can contribute (thrifting, volunteering)   |   |
+| Once you finished, was there anything you wanted to know more about?  | n/a   | Maybe a blurb on the sustainable brands with context and impact.  | Specific retailers that are the biggest fast fashion culprits.  | More contribution  |   |
+| Did the story make you feel compelled to take action? Why or why not? | Yes  | It did, the data visuals and content acknowledged the problem and highlighted the importance of taking action against said issue.  | Yes, to avoid buying fast fashion trends and retailers.  | I do feel compelled. I think fast fashion, is a big issue and this helps highlight what these issues are.   |   |
+| Any additional comments or thoughts?   | It would be cool to visualize that the average fast-fashion shirt lasts less than 10 wearings, like if you could animate a shirt falling apart. I also wonder if you could add more accessible shopping options at the end. I know Patagonia and Everlane are on the higher end of price ranges.   | Very good so far.  | n/a  | Get all the images the same resolution  |   |
+
+#### Findings
+
 
 ## [Back to main page](https://anagm17.github.io/ana-garcia-portfolio/)
 
