@@ -79,21 +79,21 @@
     <td>How am I contributing to this problem?</td>
     <td>I will include a blurb about each sustainable brand with more details. In the conflict section, I will name-call the big-name fast fashion brands and see if I can find data to support a ranking of which ones cause more harm, or at least some more specifics. I will also look for more data about how consumers specifically are contributing to the problem. This may also help in making the target audience more clear. I may also include more advocacy/free options for people to take action as well.</td>
   </tr>
-    <tr>        
+   <tr>        
     <td>Once you finished, was there anything you wanted to know more about?</td>
     <td>n/a</td>
     <td>Maybe a blurb on the sustainable brands with context and impact.</td>
     <td>Specific retailers that are the biggest fast fashion culprits./td>
     <td>-</td>
   </tr>
-    <tr>   
+   <tr>   
     <td>Did the story make you feel compelled to take action? Why or why not?</td>
     <td>Yes</td>
     <td>It did, the data visuals and content acknowledged the problem and highlighted the importance of taking action against said issue.</td>
     <td>Yes, to avoid buying fast fashion trends and retailers.</td>
     <td>My call to action was compelling.</td>
   </tr>
-    <tr>     
+   <tr>     
     <td>Any additional comments or thoughts?</td>
     <td>It would be cool to visualize that the average fast-fashion shirt lasts less than 10 wearings, like if you could animate a shirt falling apart. I also wonder if you could add more accessible shopping options at the end. I know Patagonia and Everlane are on the higher end of price ranges.</td>
     <td>Very good so far.</td>
