@@ -99,5 +99,4 @@
     <td>Very good so far.</td>
     <td>n/a</td>
     <td>I will order the sustainable options by price range and try to find more affordable options as well. The animation idea was cool too, I will have to see how I can make that idea come to life.</td>
-  </tr>
-</table>
+  
