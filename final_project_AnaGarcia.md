@@ -72,7 +72,7 @@ My target audience is consumers, both those that knowingly purchase/enjoy fast f
 
 ### Questions/Responses
 | Question  | User 1  | User 2 | User 3  |  Conclusions |
-|---|---|---|---|---|
+|---|:---|:---|:---|:---|
 | Age bracket  | 18-24  | 18-24  | 45-54  | -  |
 | Gender | Female | Female | Female | - |
 | Are you previously familiar with the topic?  | Sort of  | Sort of  | Yes  | - |
