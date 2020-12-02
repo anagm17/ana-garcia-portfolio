@@ -61,7 +61,7 @@ I also intend on creating a seperate Shorthand page for the final presentation t
 For this section of the project, I built my wireframe and storyboard directly into [Shorthand](https://preview.shorthand.com/Mw6V94oX9wa2qxFI). I used a combination of Flourish, Infogram, and Balsamiq (for placeholders).
 
 ### User Research Method
-I used the following [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSerrMtXQyCIarJnWUZgv0L4exwRLqsSSR3rcLoKAEEnbPqL-Q/viewform?usp=sf_link) to collect user responses from 4 individuals. Participants were selected to be a mix of those who possess varying levels of knowledge with fast fashion. 
+I used the following [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSerrMtXQyCIarJnWUZgv0L4exwRLqsSSR3rcLoKAEEnbPqL-Q/viewform?usp=sf_link) to collect user responses from 3 individuals. Participants were selected to be a mix of those who possess varying levels of knowledge with fast fashion. 
 
 My target audience is consumers, both those that knowingly purchase/enjoy fast fashion and those that may not realize they are shopping fast fashion. Hopefully the presentation will persuade consumers to stop supporting fast fashion brands and equip them with the better, more sustainable alternatives.
 
