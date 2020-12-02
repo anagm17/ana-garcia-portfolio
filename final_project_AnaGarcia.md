@@ -72,19 +72,32 @@ My target audience is consumers, both those that knowingly purchase/enjoy fast f
 
 ### Questions/Responses
 | Question  | User 1  | User 2 | User 3  |  Conclusions |
+
 |---|---|---|---|---|
 | Age bracket  | 18-24  | 18-24  | 45-54  | -  |
+
 | Gender | Female | Female | Female | - |
+
 | Are you previously familiar with the topic?  | Sort of  | Sort of  | Yes  | - |
+
 | How did the presentation make you feel?  | Very engaged, motivated to act  | Informed and surprised  | I didn't realize all the implications of fast fashion on the environment.  | - |
+
 | In your own words, what do you think this story is about? | Environmental impact of the fast fashion industry  | The presentation is about how the rise of fast fashion is having a negative effect on our climate, despite the industry seeming benign in the context of the encroaching irreversible impacts of climate change.  | About the detrimental impact fast fashion has on the environment and what we can do to break that cycle  | The purpose of the story is clear.   |
+
 | Who do you think is the intended audience?  | General public / people who like shopping and have shopped at fast fashion stores   | The tone and content is geared towards those in the fast fashion industry and the patrons of fast fashion.  | Women   | The responses for intended audience were particularly varied. I will try to make it more clear who the audience is by addressing those consumers at the beginning.  |
+
 | Is the overall flow of information logical and clear? Why or why not?  | Yes, I think so! I was surprised when I got to the call to action. Adding something about the environmental impact of landfills could help with that.    | The information is clear and follows a logical flow of context, facts, impacts, and how to help. It serves as a nice call-to-action.   | Good use of visuals and graphics   |  My information flow was clear and effective. |
+
 | Are the data visualizations supporting the claims easy to understand? Why or why not?  | Colors weren't clear to me on the first chart, but I could just be dumb. I like the infographic-style visualizations a lot.  | The graphs added a well needed shock factor which underlined the importance of the topic. The only complaint I have is with the somewhat blurry visual of the history of the clothing industry.   | Yes, by well sourced data.  | I need to make sure the final data visualizations are high res. I may also re-do the first chart in another medium to be able to add the key (I used Flourish and had to override the color of every bar).     |
+
 | Was anything about the story confusing?   | No   | Nothing at all.   | n/a | - |
+
 | What questions, if any, come up as you read through?   | Are some specific brands worse than others?  | Maybe how these sustainable fashion brands are doing things differently in comparison to fast fashion.  | How am I contributing to this problem  |  I will include a blurb about each sustainable brand with more details. In the conflict section, I will name-call the big-name fast fashion brands and see if I can find data to support a ranking of which ones cause more harm, or at least some more specifics. I will also look for more data about how consumers specifically are contributing to the problem. This may also help in making the target audience more clear. I may also include more advocacy/free options for people to take action as well.  |
+
 | Once you finished, was there anything you wanted to know more about?  | n/a   | Maybe a blurb on the sustainable brands with context and impact.  | Specific retailers that are the biggest fast fashion culprits.    | - |
+
 | Did the story make you feel compelled to take action? Why or why not? | Yes  | It did, the data visuals and content acknowledged the problem and highlighted the importance of taking action against said issue.  | Yes, to avoid buying fast fashion trends and retailers. |  My call to action was compelling.   |
+
 | Any additional comments or thoughts?   | It would be cool to visualize that the average fast-fashion shirt lasts less than 10 wearings, like if you could animate a shirt falling apart. I also wonder if you could add more accessible shopping options at the end. I know Patagonia and Everlane are on the higher end of price ranges.   | Very good so far.  | n/a  |  I will order the sustainable options by price range and try to find more affordable options as well. The animation idea was cool too, I will have to see how I can make that idea come to life.    |
 
 #### Findings
