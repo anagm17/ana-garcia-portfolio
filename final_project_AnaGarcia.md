@@ -1,4 +1,4 @@
-# Fast Fashion: Cheap to Purchase, But at What Cost?
+# [Fast Fashion: Cheap to Purchase, But at What Cost?]( )
 
 ## Part I
 My goal for this project is to convince my audience (American consumers) the damage fast fashion does to the environment and show them more sustainable alternatives for clothing shopping.
@@ -76,6 +76,24 @@ Detailed questions and responses can be found [here](https://anagm17.github.io/a
 
 #### Findings
 Overall, the user research illuminated more areas where I can strengthen the story whether it be by providing more in-depth information or including additional data. I believe in adding this it will also help clarify who the target audience is. Otherwise, the visualizations I have now are strong with the exception of the first chart and its missing key.
+
+## Part III: Final Data Story
+
+#### Summary
+A few paragraphs reflecting on changes since Part II 
+- other info used to narrow focus (in-class critique)
+- design decisions made (changing timeline to move from top down instead of being a static image)
+
+#### The Audience
+A few paragraphs
+- what adjustments were made to work for audience (changed color of pink so that it didn't feel like it was only directed towards women, as one user pointed out in one of my interviews)
+
+#### What I learned
+
+##[Link to final data story]( )
+
+### References
+
  
 ## [Back to main page](https://anagm17.github.io/ana-garcia-portfolio/)
 
