@@ -83,8 +83,8 @@
     <td>Once you finished, was there anything you wanted to know more about?</td>
     <td>n/a</td>
     <td>Maybe a blurb on the sustainable brands with context and impact.</td>
-    <td>Specific retailers that are the biggest fast fashion culprits./td>
-    <td>-</td>
+    <td>Specific retailers that are the biggest fast fashion culprits.</td>
+     <td>-</td>
   </tr>
    <tr>   
     <td>Did the story make you feel compelled to take action? Why or why not?</td>
