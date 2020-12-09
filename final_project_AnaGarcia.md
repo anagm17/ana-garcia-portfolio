@@ -90,7 +90,7 @@ A few paragraphs
 
 #### What I learned
 
-##[Link to final data story](https://carnegiemellon.shorthandstories.com/fast-fashion/index.html)
+## [Link to final data story](https://carnegiemellon.shorthandstories.com/fast-fashion/index.html)
 
 ### References
 
