@@ -20,6 +20,6 @@ Detailed questions and responses can be found [here](https://anagm17.github.io/a
 #### Findings
 Overall, the user research illuminated more areas where I can strengthen the story whether it be by providing more in-depth information or including additional data. I believe in adding this it will also help clarify who the target audience is. Otherwise, the visualizations I have now are strong with the exception of the first chart and its missing key.
 
-## [Part III]((https://anagm17.github.io/final_project_AG3.md)
+## [Part III](https://anagm17.github.io/final_project_AG3.md)
 ## [Back to Final Project](https://anagm17.github.io/final_project_AnaGarcia.md)
 ## [Back to main page](https://anagm17.github.io/ana-garcia-portfolio/)
