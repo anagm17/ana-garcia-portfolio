@@ -56,3 +56,6 @@ I will be completing the project through the use of Shorthand and Flourish.
 I plan on writing out a script of sorts first for the website and then seeing where I can use visualizations to bolster my points. After I have an idea of the visualizations I plan to use and wireframe the project, I will conduct user research on at least 2-3 people to get feedback and find areas for improvement. Next, I will prototype my sketches and request feedback again. Once I feel confident about them, I will move on to building out the presentation on Shorthand.
 
 I also intend on creating a seperate Shorthand page for the final presentation that just includes my main talking points for the two minute presentation. 
+
+## [Part II]((https://anagm17.github.io/final_project_AG2.md)
+## [Back to main page](https://anagm17.github.io/ana-garcia-portfolio/)
