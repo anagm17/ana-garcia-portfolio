@@ -46,5 +46,5 @@ Vox. [Why Women’s Clothing Sizes Don’t Make Sense](https://www.youtube.com/w
 
 Zarroli, Jim. [“In Trendy World Of Fast Fashion, Styles Aren’t Made To Last.”](https://www.npr.org/2013/03/11/174013774/in-trendy-world-of-fast-fashion-styles-arent-made-to-last) All Things Considered. Accessed December 8, 2020. 
 
-## [Back to Final Project](https://anagm17.github.io/final_project_AnaGarcia.md)
-## [Back to main page](https://anagm17.github.io/ana-garcia-portfolio/)
+### [Back to Final Project](https://anagm17.github.io/final_project_AnaGarcia.md)
+### [Back to main page](https://anagm17.github.io/ana-garcia-portfolio/)
