@@ -57,5 +57,6 @@ I plan on writing out a script of sorts first for the website and then seeing wh
 
 I also intend on creating a seperate Shorthand page for the final presentation that just includes my main talking points for the two minute presentation. 
 
-## [Part II]((https://anagm17.github.io/final_project_AG2.md)
+## [Part II](https://anagm17.github.io/final_project_AG2.md)
+## [Back to Final Project](https://anagm17.github.io/final_project_AnaGarcia.md)
 ## [Back to main page](https://anagm17.github.io/ana-garcia-portfolio/)
